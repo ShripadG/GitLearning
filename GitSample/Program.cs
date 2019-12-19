@@ -8,6 +8,7 @@ namespace GitSample
         {
             //second commit 19 dec 2019
             Console.WriteLine("Hello World with my second test123!");
+            Console.WriteLine("My git hub commit test!");
         }
     }
 }
